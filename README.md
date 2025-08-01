@@ -28,7 +28,7 @@ We write code that matters, ask questions that challenge norms, and help others 
 ## 🧭 How to Contribute
 
 🔹 **Not part of a proposal-based track yet?**  
-Fork any repo and start contributing directly via issues. We welcome organic PRs! (Checkout CONTRIBUTING.md file for Guidance)
+Fork any repo and start contributing directly via issues. We welcome organic PRs! (Checkout [CONTRIBUTING.md](https://github.com/OSCxSST/.github/blob/main/CONTRIBUTING.md) file for Guidance)
 
 
 ## 🧑‍🏫 Need Help?
