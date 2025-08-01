@@ -44,6 +44,36 @@ We’re here to **guide**, not handhold.
 
 ---
 
+## 🧱 Code of Conduct
+
+We don’t do fluff — we do culture. Everyone contributing to this repo must adhere to the following:
+
+### 🤝 Respect Over Ego
+- Critique ideas, not individuals.
+- Give feedback clearly; receive it humbly.
+
+### 🔒 Own Your Work
+- Commit only when you intend to complete.
+- If you can't deliver, **communicate early**. Ghosting is unacceptable.
+
+### 🧰 Don’t Block Others
+- Share access, tools, and notes freely.
+- If you're stuck, ask early — and document your last working state before stepping back.
+
+### ❌ No Zero-Day Fame Seekers
+- Plagiarism = permanent ban.  
+- Claim credit only when you contribute. Celebrate your collaborators.
+
+### 🧠 Teach What You Learn
+- Document your workflows, explain what you debugged, and make it replicable for others.
+
+---
+
+We build with intention. If you uphold the culture, you’ll grow here.  
+If you violate it — **regardless of role or reputation — you’ll be removed.**
+
+---
+
 ## 📄 License
 
 This project is open-source and governed by OSC.
