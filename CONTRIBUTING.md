@@ -56,7 +56,7 @@ This makes it easy for core members to review and merge PRs efficiently.
 
 ## 📜 Code of Conduct
 
-Please note that we have a Code of Conduct, checkout [README.md](https://github.com/OSCxSST/.github/blob/main/README.md) to ensure a welcoming environment for everyone. Please read it before contributing.
+Please note that we have a Code of Conduct. Checkout [profile/README.md](profile/README.md) to ensure a welcoming environment for everyone. Please read it before contributing.
 
 ---
 
